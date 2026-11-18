@@ -19,4 +19,4 @@
 
 Repositories are private to protect customer data. Access for technical evaluation is available on request.
 
-📫 tecnologia@ravocompany.com.br · 📍 Brazil (UTC−3)
+📫 sistema@ravocompany.com.br · 📍 Brazil (UTC−3)
